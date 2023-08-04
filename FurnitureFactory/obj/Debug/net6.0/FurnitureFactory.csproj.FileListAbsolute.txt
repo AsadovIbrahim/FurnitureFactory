@@ -1,0 +1,15 @@
+C:\Users\Asus\source\repos\FurnitureFactory\FurnitureFactory\bin\Debug\net6.0\FurnitureFactory.exe
+C:\Users\Asus\source\repos\FurnitureFactory\FurnitureFactory\bin\Debug\net6.0\FurnitureFactory.deps.json
+C:\Users\Asus\source\repos\FurnitureFactory\FurnitureFactory\bin\Debug\net6.0\FurnitureFactory.runtimeconfig.json
+C:\Users\Asus\source\repos\FurnitureFactory\FurnitureFactory\bin\Debug\net6.0\FurnitureFactory.dll
+C:\Users\Asus\source\repos\FurnitureFactory\FurnitureFactory\bin\Debug\net6.0\FurnitureFactory.pdb
+C:\Users\Asus\source\repos\FurnitureFactory\FurnitureFactory\obj\Debug\net6.0\FurnitureFactory.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\FurnitureFactory\FurnitureFactory\obj\Debug\net6.0\FurnitureFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\FurnitureFactory\FurnitureFactory\obj\Debug\net6.0\FurnitureFactory.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\FurnitureFactory\FurnitureFactory\obj\Debug\net6.0\FurnitureFactory.AssemblyInfo.cs
+C:\Users\Asus\source\repos\FurnitureFactory\FurnitureFactory\obj\Debug\net6.0\FurnitureFactory.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\FurnitureFactory\FurnitureFactory\obj\Debug\net6.0\FurnitureFactory.dll
+C:\Users\Asus\source\repos\FurnitureFactory\FurnitureFactory\obj\Debug\net6.0\refint\FurnitureFactory.dll
+C:\Users\Asus\source\repos\FurnitureFactory\FurnitureFactory\obj\Debug\net6.0\FurnitureFactory.pdb
+C:\Users\Asus\source\repos\FurnitureFactory\FurnitureFactory\obj\Debug\net6.0\FurnitureFactory.genruntimeconfig.cache
+C:\Users\Asus\source\repos\FurnitureFactory\FurnitureFactory\obj\Debug\net6.0\ref\FurnitureFactory.dll
